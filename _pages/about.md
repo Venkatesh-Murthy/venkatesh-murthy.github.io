@@ -22,7 +22,7 @@ You can find the full list of my publications on <a href="https://scholar.google
   
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/DDN.jpg" width="250"/> </td>
+<img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/DDN.jpg" width="150"/> </td>
   
  
 <td style="border-collapse: collapse; border: none;">
@@ -34,9 +34,9 @@ You can find the full list of my publications on <a href="https://scholar.google
 </td>
 </tr>    
   
-  <tr style="border-collapse: separate; border-spacing:30em;">
+ <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/dlrep.png" width="250"/> </td>
+<img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/dlrep.png" width="150"/> </td>
   
  
 <td style="border-collapse: collapse; border: none;">
@@ -47,6 +47,21 @@ You can find the full list of my publications on <a href="https://scholar.google
 <span><a href="https://ciir-publications.cs.umass.edu/getpdf.php?id=1193">Paper</a></span> 
 </td>
 </tr>  
+  
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/ECG.png" width="150"/> </td>
+  
+ 
+<td style="border-collapse: collapse; border: none;">
+<b>Human electrocardiogram for biometrics using DTW and FLDA</b>
+<br>
+<b>N Venkatesh</b>, S Jayaraman. <b>ICPR</b>, 2010.
+<br>
+<span><a href="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/files/ECG.pdf">Paper</a></span> 
+</td>
+</tr>   
+  
 </table>
 
 ### Professional service
