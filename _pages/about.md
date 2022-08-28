@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a staff scientist at Siemens Healthineers. Previously, I received my MS and Ph.D. in Computer Vision from [UMass Amherst](https://www.cics.umass.edu/), and M.E. in Signal Processing from [Indian Institute of Science, Bengaluru](https://ee.iisc.ac.in/)).
+I am currently a staff scientist at Siemens Healthineers. Previously, I received my MS in Computer Science and Ph.D. in Computer Vision from [UMass Amherst](https://www.cics.umass.edu/), and M.E. in Signal Processing from [Indian Institute of Science, Bengaluru](https://ee.iisc.ac.in/)).
 
 
 
