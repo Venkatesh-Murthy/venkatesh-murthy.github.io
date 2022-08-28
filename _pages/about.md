@@ -33,6 +33,20 @@ You can find the full list of my publications on <a href="https://scholar.google
 <span><a href="https://comaniciu.net/Papers/DeepDecisionNetwork_CVPR16.pdf">Paper</a></span> 
 </td>
 </tr>    
+  
+  <tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/DDN.jpg" width="250"/> </td>
+  
+ 
+<td style="border-collapse: collapse; border: none;">
+<b>Automatic image annotation using deep learning representations</b>
+<br>
+<b>Venkatesh N. Murthy</b>, Subhransu Maji, R. Manmatha. <b>ICMR</b>, 2015.
+<br>
+<span><a href="https://ciir-publications.cs.umass.edu/getpdf.php?id=1193">Paper</a></span> 
+</td>
+</tr>  
 </table>
 
 ### Professional service
