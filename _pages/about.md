@@ -28,7 +28,7 @@ I am currently a staff scientist at Siemens Healthineers. Previously, I received
 <br>
 <b>Venkatesh N. Murthy</b>, Vivek Singh, Terrence Chen, R. Manmatha, Dorin Comaniciu. <b>CVPR</b>, 2016.
 <br>
-<span><a href="https://comaniciu.net/Papers/DeepDecisionNetwork_CVPR16.pdf">Paper</a></span>, 
+<span><a href="https://comaniciu.net/Papers/DeepDecisionNetwork_CVPR16.pdf">Paper</a></span> 
 </td>
   
 </table>
