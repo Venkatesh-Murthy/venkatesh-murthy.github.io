@@ -15,7 +15,9 @@ I am currently a staff scientist at Siemens Healthineers. Previously, I received
 
 
 
-### Recent publications
+### Publications
+You can find the full list of my publications on <a href="https://scholar.google.co.in/citations?user=0mtKywkAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/GS.png" width="100"/></a>. The following are selected publications:
+
 <table style="border: none; border-collapse: collapse;" border="0">
   
 <tr style="border-collapse: separate; border-spacing:30em;">
