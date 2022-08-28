@@ -30,4 +30,8 @@ I am currently a staff scientist at Siemens Healthineers. Previously, I received
 <br>
 <span><a href="https://comaniciu.net/Papers/DeepDecisionNetwork_CVPR16.pdf">Paper</a></span>, 
 </td>
+  
+### Professional service
+- Sponsorchip Chair: ICMR 2022
+- Reviewer: ICMR, ACM MM, IEEE Transactions on Medical Imaging, IEEE Transactions on Neural Networks and Learning, etc.
 </tr> 
