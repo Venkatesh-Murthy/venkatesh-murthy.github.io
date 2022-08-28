@@ -63,7 +63,7 @@ You can find the full list of my publications on <a href="https://scholar.google
   
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/dlrep.png" width="150"/> </td>
+<img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/hypergraph.png" width="150"/> </td>
   
 <td style="border-collapse: collapse; border: none;">
 <b>Image annotation using multi-scale hypergraph heat diffusion framework</b>
@@ -76,7 +76,7 @@ You can find the full list of my publications on <a href="https://scholar.google
   
  <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/dlrep.png" width="150"/> </td>
+<img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/hybrid.png" width="150"/> </td>
   
 <td style="border-collapse: collapse; border: none;">
 <b>A hybrid model for automatic image annotation</b>
