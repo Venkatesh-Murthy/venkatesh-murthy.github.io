@@ -32,7 +32,7 @@ You can find the full list of my publications on <a href="https://scholar.google
 <br>
 <span><a href="https://comaniciu.net/Papers/DeepDecisionNetwork_CVPR16.pdf">Paper</a></span> 
 </td>
-  
+</tr>    
 </table>
 
 ### Professional service
