@@ -22,6 +22,20 @@ You can find the full list of my publications on <a href="https://scholar.google
   
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/cascaded.jpg" width="150"/> </td>
+  
+ 
+<td style="border-collapse: collapse; border: none;">
+<b>Cascaded deep decision networks for classification of endoscopic images</b>
+<br>
+<b>Venkatesh N. Murthy</b>, V Singh, S Sun, S Bhattacharya, T Chen, D Comaniciu <b>SPIE Medical Imaging</b>, 2017.
+<br>
+<span><a href="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/files/cascaded.pdf">Paper</a></span> 
+</td>
+</tr>  
+  
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/DDN.jpg" width="150"/> </td>
   
  
@@ -33,34 +47,7 @@ You can find the full list of my publications on <a href="https://scholar.google
 <span><a href="https://comaniciu.net/Papers/DeepDecisionNetwork_CVPR16.pdf">Paper</a></span> 
 </td>
 </tr>    
-  
- <tr style="border-collapse: separate; border-spacing:30em;">
-<td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/dlrep.png" width="150"/> </td>
-  
- 
-<td style="border-collapse: collapse; border: none;">
-<b>Automatic image annotation using deep learning representations</b>
-<br>
-<b>Venkatesh N. Murthy</b>, Subhransu Maji, R. Manmatha <b>ICMR</b>, 2015.
-<br>
-<span><a href="https://ciir-publications.cs.umass.edu/getpdf.php?id=1193">Paper</a></span> 
-</td>
-</tr>  
-  
-<tr style="border-collapse: separate; border-spacing:30em;">
-<td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/ECG.png" width="150"/> </td>
-  
-<td style="border-collapse: collapse; border: none;">
-<b>Human electrocardiogram for biometrics using DTW and FLDA</b>
-<br>
-<b>N Venkatesh</b>, S Jayaraman <b>ICPR</b>, 2010.
-<br>
-<span><a href="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/files/ECG.pdf">Paper</a></span> 
-</td>
-</tr>  
-  
+
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/hypergraph.png" width="150"/> </td>
@@ -76,6 +63,20 @@ You can find the full list of my publications on <a href="https://scholar.google
   
  <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/dlrep.png" width="150"/> </td>
+  
+ 
+<td style="border-collapse: collapse; border: none;">
+<b>Automatic image annotation using deep learning representations</b>
+<br>
+<b>Venkatesh N. Murthy</b>, Subhransu Maji, R. Manmatha <b>ICMR</b>, 2015.
+<br>
+<span><a href="https://ciir-publications.cs.umass.edu/getpdf.php?id=1193">Paper</a></span> 
+</td>
+</tr>  
+ 
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/hybrid.png" width="150"/> </td>
   
 <td style="border-collapse: collapse; border: none;">
@@ -86,6 +87,22 @@ You can find the full list of my publications on <a href="https://scholar.google
 <span><a href="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/files/hybrid.pdf">Paper</a></span> 
 </td>
 </tr>
+  
+  
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/images/ECG.png" width="150"/> </td>
+  
+<td style="border-collapse: collapse; border: none;">
+<b>Human electrocardiogram for biometrics using DTW and FLDA</b>
+<br>
+<b>N Venkatesh</b>, S Jayaraman <b>ICPR</b>, 2010.
+<br>
+<span><a href="https://raw.githubusercontent.com/Venkatesh-Murthy/venkatesh-murthy.github.io/master/files/ECG.pdf">Paper</a></span> 
+</td>
+</tr>  
+  
+
   
 </table>
 
