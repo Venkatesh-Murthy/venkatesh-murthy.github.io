@@ -107,6 +107,6 @@ You can find the full list of my publications on <a href="https://scholar.google
 </table>
 
 ### Professional service
-- Sponsorchip Chair: ICMR 2022
-- Reviewer: ICMR, ACM MM, IEEE Transactions on Medical Imaging, IEEE Transactions on Neural Networks and Learning, etc.
+- Sponsorchip Chair and Program Committe Member: ICMR
+- Reviewer: ICCV, CVPR, ECCV, MICCAI, ICMR, ACM MM, IEEE Transactions on Medical Imaging, IEEE Transactions on Neural Networks and Learning, etc.
 
